@@ -1,4 +1,4 @@
-### 안녕하세요. 신입 웹개발자입니다!
+### 안녕하세요. 신입 웹개발자 JSH입니다.
 
 <!--
 **shjang0114/shjang0114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
